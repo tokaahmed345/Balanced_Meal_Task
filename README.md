@@ -3,7 +3,7 @@
 
   <h1>Balanced Meal App</h1>
 
-  <img src="screenshots/Screenshot_1751223437.png" alt="Balanced Meal Screenshot 1" />
+  <img src="screenshots/Screenshot_1751223437.png" alt="Balanced Meal Screenshot 1" width=200/>
   <img src="./assets/screenshot2.png" alt="Balanced Meal Screenshot 2" />
 
   <hr />
