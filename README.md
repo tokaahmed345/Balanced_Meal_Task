@@ -1,19 +1,17 @@
 
 <body>
 
-  <h1>Balanced Meal App</h1>
-
-  <img src="screenshots/Screenshot_1751223437.png" alt="Balanced Meal Screenshot 1" width=200/>
-  <img src="screenshots/Screenshot_1751223442.png" alt="Balanced Meal Screenshot 2" width=200 />
-  <img src="screenshots/Screenshot_1751223457.png" alt="Balanced Meal Screenshot 3" width=200 />
-  <img src="screenshots/Screenshot_1751223475.png" alt="Balanced Meal Screenshot 4" width=200 />
-  <img src="screenshots/Screenshot_1751389331.png" alt="Balanced Meal Screenshot 5" width=200 />
-  <img src="screenshots/Screenshot_1751389346.png" alt="Balanced Meal Screenshot 6" width=200 />
-  <img src="screenshots/Screenshot_1751389349.png" alt="Balanced Meal Screenshot 7" width=200 />
-  <img src="screenshots/Screenshot_1751389355.png" alt="Balanced Meal Screenshot 8" width=200 />
-  <img src="screenshots/Screenshot_1751389358.png" alt="Balanced Meal Screenshot 9" width=200 />
-
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="screenshots/Screenshot_1751223437.png" alt="Balanced Meal Screenshot 1" width="200" />
+  <img src="screenshots/Screenshot_1751223442.png" alt="Balanced Meal Screenshot 2" width="200" />
+  <img src="screenshots/Screenshot_1751223457.png" alt="Balanced Meal Screenshot 3" width="200" />
+  <img src="screenshots/Screenshot_1751223475.png" alt="Balanced Meal Screenshot 4" width="200" />
+  <img src="screenshots/Screenshot_1751389331.png" alt="Balanced Meal Screenshot 5" width="200" />
+  <img src="screenshots/Screenshot_1751389346.png" alt="Balanced Meal Screenshot 6" width="200" />
+  <img src="screenshots/Screenshot_1751389349.png" alt="Balanced Meal Screenshot 7" width="200" />
+  <img src="screenshots/Screenshot_1751389355.png" alt="Balanced Meal Screenshot 8" width="200" />
+  <img src="screenshots/Screenshot_1751389358.png" alt="Balanced Meal Screenshot 9" width="200" />
+</div>
 
 
   
