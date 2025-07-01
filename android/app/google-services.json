@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717635135688",
+    "project_id": "balancedmeal-bf0fb",
+    "storage_bucket": "balancedmeal-bf0fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717635135688:android:caaae4de7c694ba1931dfd",
+        "android_client_info": {
+          "package_name": "com.example.balancedmeal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuh1YCqZx3UwXfOZf6KhOVZ94jRnNo6DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
