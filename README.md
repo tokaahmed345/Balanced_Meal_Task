@@ -1,5 +1,5 @@
 
-<body>
+<body> 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="screenshots/Screenshot_1751223437.png" alt="Balanced Meal Screenshot 1" width="200" />
