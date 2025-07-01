@@ -52,9 +52,7 @@ lib/
 └── utils/             # Helper utilities
   </pre>
 
-  <h2>Screenshots</h2>
-  <img src="./assets/screenshot1.png" alt="Home Screen" />
-  <img src="./assets/screenshot2.png" alt="Meal Details" />
+
 
   <h2>How to Run</h2>
   <ol>
