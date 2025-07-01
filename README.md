@@ -71,7 +71,6 @@ lib/
   <p>
     For any inquiries, feel free to reach out:<br />
     Email: <a href="mailto:tokaahmed34567@gmail.com">tokaahmed34567@gmail.com</a><br />
-    GitHub: <a href="https://github.com/tokaahmed345" target="_blank">github.com/tokaahmed345</a>
   </p>
 
 </body>
